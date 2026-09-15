@@ -11,7 +11,7 @@ Left y: 1\
 Right x: 2\
 Right y: 3\
 \
-Serial output 9600bps\
+Serial output 115200bps\
 format ID, INT_16 - ie, "2,52342"(\n terminator)\ 
 \
 Max takes serial in and sends for a couple IEM encoders\
