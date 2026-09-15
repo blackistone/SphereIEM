@@ -1,4 +1,6 @@
 # SphereIEM
+The file you probably need is ballers2.maxpat
+
 Files for sphere control of IEM Ambisonics suite\
 \
 Experimental\
